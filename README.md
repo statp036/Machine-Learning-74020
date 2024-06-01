@@ -2,7 +2,7 @@
 
 Assignments worked on for CSC-74020 (Machine Learning)
 
-- KNN: Build a KNN build and metric functions from scratch
+- KNN: Build a KNN model and metric functions from scratch
 - Practical Machine Learning: Feature selection, modeling with text data, model selection for best AUC
 - PCA: Use of PCA and autoencoders
 
